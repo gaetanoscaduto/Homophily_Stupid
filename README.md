@@ -2,6 +2,6 @@ This is the replication file for the paper "It’s the Homophily, Stupid! A Cros
 
 Notice that in order for the replication file to work, you need to adjust all file paths to you repository structures. Moreover, you always need to run the script "Analyses_pooled_data.R" before the script"Analyses_allcountries.R", because the latter makes use of the output of the former. 
 
-If you are interested in receiving the anonymized dataset, please send an email to g.scaduto@tilburguniversity.edu
+The data is currently being archived in a public repository. If you are interested in receiving the anonymized dataset, please send an email to g.scaduto@tilburguniversity.edu
 
 If any problem arises, feel free to shoot me an email at g.scaduto@tilburguniversity.edu or to whatever email address I am currently reachable at
